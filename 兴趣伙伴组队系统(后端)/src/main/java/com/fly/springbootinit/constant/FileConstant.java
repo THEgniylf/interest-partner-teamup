@@ -9,5 +9,5 @@ public interface FileConstant {
     /**
      * COS 访问地址
      */
-    String COS_HOST = "https://springboot-init-1234567890-1501342726.cos.ap-guangzhou.myqcloud.com";
+    String COS_HOST = "https://example-bucket.cos.ap-guangzhou.myqcloud.com";
 }
